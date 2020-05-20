@@ -34,6 +34,7 @@ public class Calculator {
 
         String rpn = expressionToRPN(statement);
         String result = Double.toString(RPNtoAnswer(rpn));
+        
         if (result.equals("Infinity")) {
             return null;
         }
