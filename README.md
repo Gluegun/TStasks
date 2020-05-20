@@ -11,8 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {Kirill Yudintsev}
-* Codeship : {[![Codeship Status for Gluegun/TStasks](https://app.codeship.com/projects/df5a2880-7c98-0138-7938-2600ac755c18/status?branch=master)](https://app.codeship.com/projects/396989)}
+* Author name : Kirill Yudintsev
+* Codeship : [![Codeship Status for Gluegun/TStasks](https://app.codeship.com/projects/df5a2880-7c98-0138-7938-2600ac755c18/status?branch=master)](https://app.codeship.com/projects/396989)
 
 
 
